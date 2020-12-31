@@ -1,7 +1,6 @@
 
 import luigi
 import importlib
-from luigi_build.lib.main import MainTask
 
 if __name__ == "__main__":
 
